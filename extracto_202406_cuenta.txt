@@ -12,38 +12,38 @@ SALDO ANTERIOR	TOTAL ABONOS	TOTAL CARGOS	SALDO ACTUAL	SALDO PROMEDIO	CUPO SUGERI
  
 Movimientos:
 FECHA	DESCRIPCIÓN	SUCURSAL	DCTO.	VALOR	SALDO
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
+1/08	text descripcion 1			5,000.00	10,000,000.00
 
 Información Cliente:
 CLIENTE	DIRECCIÓN	CIUDAD
